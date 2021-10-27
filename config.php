@@ -1,5 +1,5 @@
 <?php
-// HTTP
+// HTTP 
 define('HTTP_SERVER', 'https://rivieraliancas.com.br/');
 
 // HTTPS
